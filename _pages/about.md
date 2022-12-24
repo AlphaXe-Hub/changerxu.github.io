@@ -9,9 +9,9 @@ profile:
   image: illust_96605330_20220620_150022.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>tel +86 18205818668</p>
-    <p>904429845@qq.com</p>
-    <p>深圳, 广东</p>
+    <p>Tel +86 18205818668</p>
+    <p>Email 904429845@qq.com</p>
+    <p>Loc 深圳, 广东</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
